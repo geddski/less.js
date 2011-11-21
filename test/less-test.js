@@ -1,6 +1,6 @@
 var path = require('path'),
     fs = require('fs'),
-    sys = require('util');
+    sys = require('sys');
 
 var less = require('../lib/less');
 
